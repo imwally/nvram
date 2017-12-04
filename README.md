@@ -10,8 +10,8 @@ to fix.
 
 ## How to Use
 
-You can use a textfile containing "name value" value strings for
-setting variables.
+You can use a textfile containing "name value" strings for setting
+variables.
 
 __Disable autoboot__
 
